@@ -1,0 +1,2 @@
+# Yikici
+Kaanin botu
